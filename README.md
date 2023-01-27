@@ -1,32 +1,42 @@
-yildirimdiyar/README.md
-Hi 👋, I'm Diyar
-A passionate backend developer from Turkey
-yildirimdiyar
+<h1 align="center">Hi 👋, I'm Diyar</h1>
+<h3 align="center">A passionate backend Developer from Turkey</h3>
+<img align="right" alt=Coding width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47fy7tko2fn6ah59fr45no5rk70mzhry6eic3x48o4&rid=giphy.gif&ct=g">
 
-yildirimdiyar
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" /> </p>
 
-diyar_dev
 
-🔭 I’m currently working on go-restapi
 
-🌱 I’m currently learning nestjs
+<h3 align="left">Connect with me:</h3>
 
-💬 Ask me about React
+<a href="https://www.linkedin.com/in/diyar-yildirim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diyar-yildirim/" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/20846461](https://stackoverflow.com/users/14754278/diyar-y%c4%b0ld%c4%b0r%c4%b0m)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20846461" height="30" width="40" /></a>
+</p>
 
-📫 How to reach me dyildirim.dev@gmail.com
 
-⚡ Fun fact I think I am funny
+- 🌱 I’m currently learning **Back-end Development & Nestjs**
 
-coding_2
+- 👨‍💻 All of my projects are available 
 
-Connect with me:
-ayhandasyuvarlar _theayhan ayhan dasyuvarlar ayhan daşyuvarlar _theayhan ayhan dasyuvarlar ayhandasyuvarlar#3398
+- ⚡ Fun fact **I love playing football, basketball and video games. I love following and watching Basketball matches motorsports especially Formula 1**
 
-Languages and Tools:
-bootstrap css3 Golang  git html5  javascript  mysql nodejs postman  react sass kotlin
 
-yildirimdiyar
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ </p>
 
- yildirimdiyar
 
-yildirimdiyar
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yildirimdiyar&show_icons=true&locale=en&layout=compact" alt="yildirimdiyar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yildirimdiyar&show_icons=true&locale=en" alt="yildirimdiyar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yildirimdiyar&" alt="yildirimdiyar" /></p>
