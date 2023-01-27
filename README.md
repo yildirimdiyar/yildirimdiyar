@@ -1,16 +1,32 @@
-### Hi there 👋
+yildirimdiyar/README.md
+Hi 👋, I'm Diyar
+A passionate backend developer from Turkey
+yildirimdiyar
 
-<!--
-**yildirimdiyar/yildirimdiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+yildirimdiyar
 
-Here are some ideas to get you started:
+diyar_dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on go-restapi
+
+🌱 I’m currently learning nestjs
+
+💬 Ask me about React
+
+📫 How to reach me dyildirim.dev@gmail.com
+
+⚡ Fun fact I think I am funny
+
+coding_2
+
+Connect with me:
+ayhandasyuvarlar _theayhan ayhan dasyuvarlar ayhan daşyuvarlar _theayhan ayhan dasyuvarlar ayhandasyuvarlar#3398
+
+Languages and Tools:
+bootstrap css3 Golang  git html5  javascript  mysql nodejs postman  react sass kotlin
+
+yildirimdiyar
+
+ yildirimdiyar
+
+yildirimdiyar
