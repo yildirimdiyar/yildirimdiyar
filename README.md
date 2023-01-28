@@ -13,7 +13,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Back-end Development & Nestjs**
+- 🌱 I’m currently learning **Sofware Development & Nestjs**
 
 - 👨‍💻 All of my projects are available 
 
