@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Sofware Developer from Turkey</h3>
 <img align="right" alt=Coding width="400" src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47fy7tko2fn6ah59fr45no5rk70mzhry6eic3x48o4&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thundergokhan&label=Profile%20views&color=0e75b6&style=flat" alt="thundergokhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yildirimdiyar&label=Profile%20views&color=0e75b6&style=flat" alt="yildirimdiyar" /> </p>
 
 
 
