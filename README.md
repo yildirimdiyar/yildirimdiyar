@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/diyar-yildirim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diyar-yildirim/" height="30" width="40" /></a>
-<a href="[https://stackoverflow.com/users/20846461](https://stackoverflow.com/users/14754278/diyar-y%c4%b0ld%c4%b0r%c4%b0m)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20846461" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14754278/diyar-y%c4%b0ld%c4%b0r%c4%b0m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20846461" height="30" width="40" /></a>
 </p>
 
 
